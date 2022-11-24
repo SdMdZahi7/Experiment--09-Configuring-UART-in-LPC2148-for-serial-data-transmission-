@@ -103,4 +103,14 @@ delay(200);
 UART is programmed for transmitting serial data on virtual terminal  
 
 ### Output screen shots :
+## BEFORE SIMULATION:
+
+## AFTER SIMULATION:
+
+## CIRCUIT:
+
+
+
+### Result :
+UART is programmed for transmitting serial data on virtual terminal  
 
