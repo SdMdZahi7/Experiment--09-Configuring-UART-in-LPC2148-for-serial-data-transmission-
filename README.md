@@ -80,37 +80,15 @@ delay(200);
 }
 }
 ~~~
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Result :
-UART is programmed for transmitting serial data on virtual terminal  
-
 ### Output screen shots :
 ## BEFORE SIMULATION:
+![image](https://user-images.githubusercontent.com/94187572/203818648-6e176959-f4df-4531-a636-60f7b3716477.png)
 
 ## AFTER SIMULATION:
+![image](https://user-images.githubusercontent.com/94187572/203818685-dbba4973-4d63-46dd-95e8-30ae46a72688.png)
 
 ## CIRCUIT:
-
-
-
+![image](https://user-images.githubusercontent.com/94187572/203818746-cfd21a85-e52e-4a93-a50b-3d6f8eaa6940.png)
 ### Result :
 UART is programmed for transmitting serial data on virtual terminal  
 
